@@ -133,4 +133,17 @@ Evaluating neural models we trained before
   --rank_job_data_path dataset/recruiting_data/rank_job.json \
   --dataset_type recruiting_data
   ```
+## Citation
+To cite our work, please use the BibTex below:
+```
+@misc{yu2025confitv2improvingresumejob,
+      title={ConFit v2: Improving Resume-Job Matching using Hypothetical Resume Embedding and Runner-Up Hard-Negative Mining}, 
+      author={Xiao Yu and Ruize Xu and Chengyuan Xue and Jinzhong Zhang and Xu Ma and Zhou Yu},
+      year={2025},
+      eprint={2502.12361},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.12361}, 
+}
 
+```
