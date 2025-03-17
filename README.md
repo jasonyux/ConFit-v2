@@ -1,4 +1,4 @@
-# ConFit
+# ConFit V2
 
 This repository contains an official implementation of ConFit V2, which is described in this paper:
 
